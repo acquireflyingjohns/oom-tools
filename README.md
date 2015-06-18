@@ -16,3 +16,4 @@ Make a puppet module
 License
 =======
 MIT
+
